@@ -3,6 +3,7 @@
     margin: 0;
     text-decoration: none;
     list-style: none;
+    font-family: "popins", sans-serif;
   }
   .wrapper a{
     color: rgb(85, 83, 83);
